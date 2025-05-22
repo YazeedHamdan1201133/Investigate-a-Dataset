@@ -44,7 +44,7 @@ This analysis aims to answer:
 
 ## 🛠 Tools and Libraries  
 
-- **Python** 🐍  
+- **Python** 
 - `Pandas` for data manipulation  
 - `NumPy` for numerical operations  
 - `Matplotlib` & `Seaborn` for visualizations
